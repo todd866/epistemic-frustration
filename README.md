@@ -32,8 +32,9 @@ python3 generate_figures.py      # Generate all figures (includes 3,125 simulati
 Todd, I. (2025). Target: *Biology & Philosophy* (in preparation).
 
 Companion papers:
+- [Agency and Power](https://github.com/todd866/agency-power) (Under review, Biology & Philosophy)
+- [Costly Signaling](https://github.com/todd866/costly-signaling) (In preparation)
 - [Limits of Falsifiability](https://github.com/todd866/limits-of-falsifiability) (Published, BioSystems)
-- [Agency and Power](../39_agency_power/) (Under review, Biology & Philosophy)
 
 ## Citation
 
